@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "bybit-api": "^4.1.9",
+    "ccxt": "^4.4.86",
     "dotenv": "^16.5.0",
     "telegraf": "^4.16.3",
     "ts-node": "^10.9.2",
