@@ -1,0 +1,24 @@
+{
+  "name": "crypbot",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.15.29"
+  },
+  "dependencies": {
+    "bybit-api": "^4.1.9",
+    "dotenv": "^16.5.0",
+    "telegraf": "^4.16.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "winston": "^3.17.0"
+  }
+}
